@@ -44,7 +44,7 @@ JRCO_VehicleControl/
 ### General
 | Option | Default | Description |
 |---|---|---|
-| `Config.CommandName` | `'vcontrol'` | Chat command to open HUD |
+| `Config.CommandName` | `'jcontrol'` | Chat command to open HUD |
 | `Config.Debug` | `false` | Print debug to console |
 | `Config.Framework` | `'qb'` | `standalone` / `qb` / `esx` / `ox` / `vorp` |
 
