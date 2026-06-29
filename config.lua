@@ -7,7 +7,7 @@ Config.Locale        = 'en'                   -- Language (reserved for future l
 Config.Debug         = false                  -- Print debug output to console
 
 
---  'standalone' | 'qb' | 'esx'
+--  'qb' | 'esx'
 Config.Framework = 'qb'
 
 --  Who can open the HUD?
