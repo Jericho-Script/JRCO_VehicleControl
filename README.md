@@ -46,7 +46,7 @@ JRCO_VehicleControl/
 |---|---|---|
 | `Config.CommandName` | `'jcontrol'` | Chat command to open HUD |
 | `Config.Debug` | `false` | Print debug to console |
-| `Config.Framework` | `'qb'` | `standalone` / `qb` / `esx` / `ox` / `vorp` |
+| `Config.Framework` | `'qb'` | `qb` / `esx`
 
 ### Features — enable/disable panels
 ```lua
